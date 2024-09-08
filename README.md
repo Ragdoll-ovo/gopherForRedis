@@ -6,4 +6,6 @@ file：保存的文件名
 code：保存文件中的代码  
 
 切换到文件所在位置，打开cmd  
-`python gopherForRedis.py`
+```
+python gopherForRedis.py
+```
