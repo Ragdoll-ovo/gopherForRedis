@@ -9,3 +9,6 @@ code：保存文件中的代码
 ```
 python gopherForRedis.py
 ```
+
+### 截图  
+![image](1.png)
